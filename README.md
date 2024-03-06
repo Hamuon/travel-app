@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank">
       <img src="https://github.com/adrianhajdin/travel_ui_ux/assets/151519281/c72ebf75-847d-4a98-8f8a-24be02dac752" alt="Project Banner">
-    </a>
   <br />
 
   <div>
@@ -16,13 +14,10 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Snippets](#snippets)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
